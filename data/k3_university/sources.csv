@@ -1,3 +1,14 @@
 doc_id,file_path,title,source_url,retrieved_at,document_version,license_or_permission
-k3-course-registration,data/k3_university/course-registration.md,Đăng ký học phần,https://example.edu/hoc-vu/dang-ky-hoc-phan,2026-08-02,2026.1,example-template-replace-me
-k3-library-services,data/k3_university/library-services.md,Dịch vụ thư viện,https://example.edu/thu-vien/dich-vu,2026-08-02,2026.1,example-template-replace-me
+vinuni-bieu-mau-don-tu,data/k3_university/vinuni-bieu-mau-don-tu.md,Biểu mẫu & Đơn từ VinUni,https://registrar.vinuni.edu.vn/vi/hoc-thuat-dich-vu/bieu-mau-don-tu/,2026-08-03,not-stated,public-page
+vinuni-cap-bang-diem-chung-nhan,data/k3_university/vinuni-cap-bang-diem-chung-nhan.md,Yêu cầu cấp Bảng điểm và Chứng nhận,https://registrar.vinuni.edu.vn/vi/hoc-thuat-dich-vu/yeu-cau-cap-bang-diem-va-chung-nhan/,2026-08-03,not-stated,public-page
+vinuni-cau-hoi-thuong-gap,data/k3_university/vinuni-cau-hoi-thuong-gap.md,Những câu hỏi thường gặp về Học thuật VinUni,https://registrar.vinuni.edu.vn/vi/nhung-cau-hoi-thuong-gap/,2026-08-03,not-stated,public-page
+vinuni-chinh-sach-quy-dinh,data/k3_university/vinuni-chinh-sach-quy-dinh.md,Chính sách & Quy định học thuật VinUni,https://registrar.vinuni.edu.vn/vi/hoc-thuat-dich-vu/chinh-sach-quy-dinh/,2026-08-03,not-stated,public-page
+vinuni-chuyen-doi-tin-chi,data/k3_university/vinuni-chuyen-doi-tin-chi.md,Quy định Chuyển đổi tín chỉ VinUni,https://registrar.vinuni.edu.vn/vi/hoc-thuat-dich-vu/chuyen-doi-tin-chi/,2026-08-03,not-stated,public-page
+vinuni-chuyen-nganh,data/k3_university/vinuni-chuyen-nganh.md,Hướng dẫn Chuyển ngành VinUni,https://registrar.vinuni.edu.vn/vi/hoc-thuat-dich-vu/chuyen-nganh/,2026-08-03,not-stated,public-page
+vinuni-dang-ky-hoc-phan,data/k3_university/vinuni-dang-ky-hoc-phan.md,Thời khóa biểu & Đăng ký học phần VinUni,https://registrar.vinuni.edu.vn/vi/hoc-thuat-dich-vu/thoi-khoa-bieu-dang-ky-hoc-phan/,2026-08-03,not-stated,public-page
+vinuni-dat-phong-hoc,data/k3_university/vinuni-dat-phong-hoc.md,Quy định Đặt phòng học VinUni,https://registrar.vinuni.edu.vn/vi/dich-vu-noi-bo/dat-phong-hoc/,2026-08-03,not-stated,public-page
+vinuni-ho-tro-giang-vien,data/k3_university/vinuni-ho-tro-giang-vien.md,Hướng dẫn Dịch vụ Hỗ trợ Giảng viên VinUni,https://registrar.vinuni.edu.vn/vi/dich-vu-noi-bo/ho-tro-giang-vien/,2026-08-03,not-stated,public-page
+vinuni-ky-thi-diem,data/k3_university/vinuni-ky-thi-diem.md,Quy định Kỳ thi & Điểm số VinUni,https://registrar.vinuni.edu.vn/vi/hoc-thuat-dich-vu/ky-thi-diem/,2026-08-03,not-stated,public-page
+vinuni-tam-nghi-thoi-hoc-hoc-lai,data/k3_university/vinuni-tam-nghi-thoi-hoc-hoc-lai.md,Tạm nghỉ học Thôi học và Học lại VinUni,https://registrar.vinuni.edu.vn/vi/hoc-thuat-dich-vu/tam-nghi-hoc-thoi-hoc-hoc-lai/,2026-08-03,not-stated,public-page
+vinuni-thong-bao-quyet-dinh,data/k3_university/vinuni-thong-bao-quyet-dinh.md,Thông báo & Quyết định VinUni,https://registrar.vinuni.edu.vn/vi/thong-bao-quyet-dinh/,2026-08-03,not-stated,public-page
+vinuni-tot-nghiep,data/k3_university/vinuni-tot-nghiep.md,Quy định Tốt nghiệp VinUni,https://registrar.vinuni.edu.vn/vi/hoc-thuat-dich-vu/tot-nghiep/,2026-08-03,not-stated,public-page
